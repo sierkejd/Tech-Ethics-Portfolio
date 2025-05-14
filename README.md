@@ -9,3 +9,4 @@ This collection explores the intersection of emerging technologies and human rig
 - 📚 [Flash Fiction: The Preacher’s Clone](preachers-clone-flash.md)  
 - 📊 [Case Brief: Clearview AI and Data Consent](clearview-case-summary.md)
 
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
