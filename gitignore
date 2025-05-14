@@ -1,0 +1,37 @@
+# macOS system files
+.DS_Store
+
+# Windows thumbnail/cache files
+Thumbs.db
+desktop.ini
+
+# Word processor autosaves and temp files
+~$*.docx
+*.tmp
+*.bak
+
+# VS Code and other editor config folders
+.vscode/
+*.code-workspace
+
+# Obsidian or other Markdown note apps
+.obsidian/
+
+# LaTeX auxiliary files (if you export PDFs)
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Build or export folders
+_build/
+output/
+dist/
+
+# Personal/local notes you don’t want in version control
+notes-local.md
