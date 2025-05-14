@@ -106,7 +106,28 @@ Biometric data should not be stored indefinitely. Systems should minimize the am
 
 Facial recognition may have legitimate applications, but its deployment must be grounded in consent, accountability, and the protection of fundamental rights. Without clear limits and public scrutiny, even well-intentioned uses can drift into abuse.
 
+### Can It Be Used Responsibly
 
----
+Facial recognition is a powerful tool, and like any tool, its impact depends on how it is used, who uses it, and under what rules. While many current implementations raise serious concerns, some experts argue that responsible use is possible—if strict safeguards are in place.
 
-Facial recognition isn't just about identifying people. It's about who gets to identify whom, under what circumstances, and for what ends. Without clear rules, we risk building systems that not only make mistakes—but magnify injustice.
+#### Transparency and Consent
+
+Any ethical use of facial recognition must start with transparency. Individuals should be clearly informed when and where their biometric data is being collected, and they should have the ability to opt out. Systems that operate in secret—whether in schools, workplaces, or public spaces—fail this basic ethical standard.
+
+#### Accuracy and Bias Auditing
+
+Vendors and agencies using facial recognition should be required to conduct regular audits for racial, gender, and age bias. These audits must be made public, and organizations should be accountable for addressing disparities in error rates and misidentifications.
+
+#### Strict Purpose Limitation
+
+Facial recognition should only be used for the specific, limited purpose for which it was implemented. For example, if a system is designed to unlock a personal device, it should not also be used to track the user's location or scan for wanted individuals. This principle of purpose limitation helps prevent "function creep."
+
+#### Independent Oversight
+
+Any use of facial recognition, especially by government agencies or public institutions, should be subject to independent oversight. Civil liberties organizations, data ethics boards, and public interest groups should be involved in reviewing how the technology is deployed and whether it aligns with democratic values.
+
+#### Data Minimization and Retention Limits
+
+Biometric data should not be stored indefinitely. Systems should minimize the amount of data they collect and delete it after a clearly defined period unless a specific legal justification exists. Long-term biometric surveillance creates ongoing risks, even after the original purpose has expired.
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
