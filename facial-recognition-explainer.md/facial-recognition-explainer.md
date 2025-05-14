@@ -1,4 +1,7 @@
-# How Facial Recognition Works—and Who It Fails
+# How Facial Recognition Works—and Who It Fails  
+![Demonstration of facial recognition software](https://upload.wikimedia.org/wikipedia/commons/e/e0/Demonstration_of_facial_recognition_software.jpg)
+
+*Image: [Demonstration of facial recognition software](https://commons.wikimedia.org/wiki/File:Demonstration_of_facial_recognition_software.jpg), via Wikimedia Commons, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ## Introduction: Why it matters
 
